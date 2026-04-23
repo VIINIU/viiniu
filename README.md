@@ -16,8 +16,6 @@ I specialize in **Hardware-Software Co-design**, **Embedded Systems**, and **Low
   - Optimized AI model inference directly on the Topst NPU board.
 - **Undergraduate Research Intern @ Seoul National University** (Sep 2025 – Dec 2025)
   - Designed and implemented a low-power FPGA-based Spiking Neural Network (SNN) Wake-Word Spotting System.
-- **Contractor @ Siru Information** (Mar 2025 – Sep 2025)
-  - Developed Python-based web/app crawling tools to restructure data pipelines and automate data entry workflows.
 
 ---
 
