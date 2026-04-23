@@ -60,5 +60,5 @@ I specialize in **Hardware-Software Co-design**, **Embedded Systems**, and **Low
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인깃허브아이디&show_icons=true&theme=transparent" alt="Yubin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viiniu&show_icons=true&theme=transparent" alt="Yubin's GitHub Stats" />
 </p>
