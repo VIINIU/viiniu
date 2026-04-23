@@ -3,8 +3,6 @@
 # 👋 Hi, I'm Yubin Seo
 **Senior (4th Year, 1st Semester) @ Chung-Ang University | B.S. in Electrical and Electronics Engineering**
 
-I specialize in **Hardware-Software Co-design**, **Embedded Systems**, and **Low-power AI Architecture**. I focus on bridging the gap between hardware capabilities and system software optimization, with hands-on experience in NPU implementation, FPGA-based design, and real-time RTOS environments.
-
 [![Blog](https://img.shields.io/badge/Blog-viniu.info-21759b?style=flat-square&logo=Blogger&logoColor=white)](https://viniu.info)
 
 ---
@@ -47,12 +45,6 @@ I specialize in **Hardware-Software Co-design**, **Embedded Systems**, and **Low
 **Hardware & Embedded** ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-Nexys_A7-blue?style=for-the-badge)
-![NPU](https://img.shields.io/badge/NPU-Topst_Boards-orange?style=for-the-badge)
-
-**Tools & Frameworks** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Fusion360](https://img.shields.io/badge/Fusion360-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
