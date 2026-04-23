@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://viniu.info">
-    <img src="https://via.placeholder.com/600x120/f6f8fa/333333?text=Welcome+to+viniu.info" alt="Welcome to Yubin's Blog" />
-  </a>
-</p>
+
 
 # 👋 Hi, I'm Yubin Seo
 **Senior (4th Year, 1st Semester) @ Chung-Ang University | B.S. in Electrical and Electronics Engineering**
