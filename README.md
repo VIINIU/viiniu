@@ -67,10 +67,3 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-Nexys_A7-blue?style=for-the-badge)
 ![NPU](https://img.shields.io/badge/NPU-Topst_AI--G-green?style=for-the-badge)
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viiniu&show_icons=true&theme=transparent" alt="Yubin's GitHub Stats" />
-</p>
