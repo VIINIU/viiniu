@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yubin Seo
-**Senior (4th Year, 1st Semester) @ Chung-Ang University | B.S. in Electrical and Electronics Engineering**
+**Senior (4th Year, Last Semester) @ Chung-Ang University | Electrical and Electronics Engineering**
 
 [![Blog](https://img.shields.io/badge/Blog-viniu.info-21759b?style=flat-square&logo=Blogger&logoColor=white)](https://viniu.info)
 
@@ -22,8 +22,11 @@
 ---
 
 ### 📁 Key Projects
-- **MINI-V : On-device LLM integration in a custom Android OS** | *Apr 2026 – Present*
-  - Exploring system-level integration of a compact model, leveraging the Hexagon NPU through a vendor-side inference service shared across applications.
+- **[MINI-V : On-device LLM integration in a custom Android OS](https://viniu.info/post/MINI-V_Android)** | *Apr 2026 – Sep 2026*
+  - **Role**: Vendor-Side Inference Service Developer
+  - Team Member: Me and [Yongmin Yoo](https://github.com/yymin1022)
+  -  Custom Android OS based on LineageOS, Integrated a Compact Language Model as a System Service leveraging the Hexagon NPU through a vendor-side inference service shared across applications.
+  - Sources : [Project Github](https://github.com/MINI-V-Android/)
 - **[Mapmo (Map your memo): Location-based Todo Alert Keyring](https://viniu.info/post/Mapmo)** | *Feb 2026 – Mar 2026*
   - **Role:** PM & Firmware/Hardware Developer
   - Developing a location-based task management service that pairs an Android app with a custom low-power keyring device.
